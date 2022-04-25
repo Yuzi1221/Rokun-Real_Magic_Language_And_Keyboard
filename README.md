@@ -39,7 +39,7 @@ Because it will ask for UAC here is the virus total scan
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
 
 # Keyboard Layout
-![image](https://cdn.upload.systems/uploads/nxcU57GM.png)
-![image](https://cdn.upload.systems/uploads/q8mQh4qi.png)
-![image](https://cdn.upload.systems/uploads/ZKE7FYNv.png)
+![image](https://cdn.upload.systems/uploads/nxcU57GM.png) Normal
+![image](https://cdn.upload.systems/uploads/q8mQh4qi.png) Shift
+![image](https://cdn.upload.systems/uploads/ZKE7FYNv.png) Shift+Alt+Ctrl
 
