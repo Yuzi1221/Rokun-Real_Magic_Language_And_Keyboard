@@ -40,9 +40,9 @@ Because it will ask for UAC here is the virus total scan
 
 # Keyboard Layout
 ![image](https://cdn.upload.systems/uploads/nxcU57GM.png) 
-Normal
+(Normal)
 ![image](https://cdn.upload.systems/uploads/q8mQh4qi.png) 
-Shift
+(Shift)
 ![image](https://cdn.upload.systems/uploads/ZKE7FYNv.png) 
-Shift+Alt+Ctrl
+(Shift+Alt+Ctrl)
 
