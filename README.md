@@ -3,7 +3,7 @@
 * A Modern take on a Magic Language
 * Uses Runic Keyboard and many many symbols
 * Completely handmade language
-* Carefully constructed and well thought through magic language
+* Carefully constructed and well thought though magic language
 * Medium difficulty level to learn the language and keyboard
 
 # Installation
