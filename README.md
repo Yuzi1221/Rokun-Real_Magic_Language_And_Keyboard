@@ -2,7 +2,7 @@
 # Magic Language and Keyboard for Windows
 * A Modern take on a Magic Language
 * Uses Runic Keyboard and many many symbols
-* Medium difficulty level to learn the language
+* Medium difficulty level to learn the language and keyboard
 
 # Installation
 * Download the repository
