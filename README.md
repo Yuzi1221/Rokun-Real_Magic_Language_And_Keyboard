@@ -39,7 +39,7 @@ Because it will ask for UAC here is the virus total scan
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
 
 # Keyboard Layout
-![image](https://user-images.githubusercontent.com/57733446/165026370-14e71ca2-ff36-4e5d-a8bc-13208daf22e1.png)
-![image](https://user-images.githubusercontent.com/57733446/165026393-a0f85c92-3c75-4c4c-9d06-66871d93f282.png)
-![image](https://user-images.githubusercontent.com/57733446/165026414-699e4415-6fd2-4c04-8e14-0de930c2a4f4.png)
+![image](https://user-images.githubusercontent.com/57733446/165027512-539b4f6c-3aac-4515-ba7f-16b23812a4b1.png)
+![image](https://user-images.githubusercontent.com/57733446/165027564-ba633c15-1636-426e-8f59-71a47b83c2a7.png)
+![image](https://user-images.githubusercontent.com/57733446/165027605-43dd4565-075f-460c-9454-4f13feeb7309.png)
 
