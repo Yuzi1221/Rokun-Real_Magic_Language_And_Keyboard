@@ -17,8 +17,8 @@
 
 # VirusTotal
 Because it will ask for UAC here is the virus total scan
-[VirusTotal Scan](https://www.virustotal.com/gui/file/2c5e766d8880d95b04891ad921a99527dbf32d78d5f796bfcfdb69c85a0882ba?nocache=1)
-![image](https://user-images.githubusercontent.com/57733446/162627935-1cf58783-bd79-435a-85bf-d883771fb087.png)
+[VirusTotal Scan](https://www.virustotal.com/gui/file/558588e3330534f82ccd069b1caeb25208a64c7a93ddd516852ffc9591a30967?nocache=1)
+![image](https://user-images.githubusercontent.com/57733446/165026583-4f432682-bc24-47c6-9f67-8995b07d0219.png)
 
 # Uninstall
 * Remove the keyboard from the language you put it in
