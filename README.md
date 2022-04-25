@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/57733446/163316858-57eb10b6-2516-412f-88f4-bd6955ca5736.png)
+![image](https://user-images.githubusercontent.com/57733446/165025988-c7b1ccfa-cea3-4527-b11c-32d5f24a5d0a.png)
 # Magic Language and Keyboard for Windows
-* Magic Language and Windows Unicode Keyboard
-* Allows for both English and Rohuna with the use of CAPS LOCK
-* Easy to learn Rohuna Language
+* A Modern take on a Magic Language
+* Uses Runic Keyboard and many many symbols
+* Medium difficulty level to learn the language
 
 # Installation
 * Download the repository
@@ -38,9 +38,8 @@ Because it will ask for UAC here is the virus total scan
 * [Vulgarlang.com](https://www.vulgarlang.com/) For the Word And Language Generator
 * [Emojistock.com](https://emojistock.com/) For the Character Theme
 
-# Extra Resources
-* [Magic Utilities](https://magicutilities.net/magic-keyboard/help/keyboard-layouts) Another Keyboard Layout Maker for Windows
-
 # Keyboard Layout
-![image](https://user-images.githubusercontent.com/57733446/163319669-1d0b73ea-e4a4-44d1-95a9-840b27fb8534.png)
+![image](https://user-images.githubusercontent.com/57733446/165026370-14e71ca2-ff36-4e5d-a8bc-13208daf22e1.png)
+![image](https://user-images.githubusercontent.com/57733446/165026393-a0f85c92-3c75-4c4c-9d06-66871d93f282.png)
+![image](https://user-images.githubusercontent.com/57733446/165026414-699e4415-6fd2-4c04-8e14-0de930c2a4f4.png)
 
