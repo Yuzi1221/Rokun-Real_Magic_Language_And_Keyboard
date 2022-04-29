@@ -14,7 +14,7 @@
 * Done!
 
 # Links
-* [Rokun Website & Dictionary](https://sites.google.com/view/magic-languages/%EA%AE%A2okun)
+* [Rokun Website & Dictionary](https://sites.google.com/view/magic-languages/rokun)
 * [Discord Server](https://discord.gg/24uCtxKCNH)
 
 # VirusTotal
